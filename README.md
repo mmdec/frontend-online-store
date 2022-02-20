@@ -9,9 +9,10 @@
   <li>E por fim, finalizar a compra (simulada) dos itens selecionados.
 </li>
 </ul>
+<p>Meu intuito de adicionar ao meu github é, além de portfólio, consolidar meu conhecimento e aperfeiçoar o codigo e praticar o CSS.</p>
 
 <h2>Detalhes do projeto</h2>
-<p>Projeto desenvolvido durante estudo de Desenvolvimento Web na trybe.</p>
+<p>Projeto desenvolvido durante estudo de Desenvolvimento Web na trybe. Feito por meio de pair programming.</p>
 <p>Integrantes do grupo:</p>
 <ul>
   <li><a href="https://github.com/mmdec" target="_blank">Matheus Machado</a></li>
@@ -19,3 +20,5 @@
   <li><a href="https://github.com/phillipe153" target="_blank">Phillipe Rodrigues</a></li>
   <li><a href="https://github.com/victorroesner" target="_blank">Victor Roesner</a></li>
 </ul>
+
+
